@@ -43,7 +43,7 @@ This Python script processes a CSV file containing user data, performing extract
 3. Run the script:
 
    ```bash
-   python your_script_name.py
+   python revised_split_and_clean.py
    ```
 
 4. After execution, you will find:
@@ -71,4 +71,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is the property of Team November, Protexxa (Barbados) Inc.
